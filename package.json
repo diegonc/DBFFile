@@ -1,6 +1,6 @@
 {
-  "name": "dbffile",
-  "version": "0.7.1",
+  "name": "dbffile-ts2",
+  "version": "0.7.2",
   "description": "",
   "main": "built/dbf-file.js",
   "typings": "built/dbf-file.d.ts",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/paypac/DBFFile.git"
+    "url": "https://github.com/diegonc/DBFFile.git"
   },
   "keywords": [
     "dbf",
@@ -21,9 +21,9 @@
     "dBase III"
   ],
   "author": {
-    "name": "Troy Gerwien",
-    "email": "yortus@gmail.com",
-    "url": "http://github.com/yortus/"
+    "name": "Diego Nieto Cid",
+    "email": "dnietoc@gmail.com",
+    "url": "http://github.com/diegonc/"
   },
   "license": "MIT",
   "bugs": {
